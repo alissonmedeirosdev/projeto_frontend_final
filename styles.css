@@ -94,3 +94,11 @@ img.logo-menu {
 .mokup img {
     height: 350;
 }
+
+section.marcas {
+    padding: 50px 0;
+}
+
+section.marcas img{
+    width: 20%;
+}
